@@ -7,7 +7,7 @@ This repository contains Python scripts for loading, processing, and analyzing M
 
 ## Key Features
 
-- **Loading MRI Data**: Scripts to load and manage MRI data from `.mat` files.
+- **Loading MRI Data**: Scripts to load and manage MRI data from `.mat` files. (Using the data from the folder '02_Subjects_reformatted' from the google drive : https://drive.google.com/drive/folders/1RNU2BFO97LkcPQ7oKD9QJCT59Rg7p_KC?usp=drive_link
 - **Lesion Segmentation**: Implements methods for lesion segmentation and masking.
 - **Data Visualization**: Functions for plotting and visualizing 2D slices and 3D representations of the MRI data.
 - **Feature Extraction**: Utilizes the Pyradiomics library to extract radiomic features.
